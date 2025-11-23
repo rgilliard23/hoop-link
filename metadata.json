@@ -1,0 +1,7 @@
+{
+  "name": "HoopLink: Local Pickup Finder",
+  "description": "Find local basketball courts, schedule pickup games, and chat with players in your area.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
